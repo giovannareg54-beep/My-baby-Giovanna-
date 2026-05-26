@@ -1,0 +1,8 @@
+{
+  "name": "Galaxy Flag",
+  "description": "Explore hyper-realistic Samsung Galaxy concepts and minimalist geometric wallpapers designed for high-resolution OLED screens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
